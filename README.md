@@ -6,7 +6,7 @@ This project is focused on building a mobile air quality monitor which can measu
 # Code
 [Original Code](Air_Quality_Monitor.ino)
 
-# Bill of Materials
+# Materials Required
 
 
 | **Part** | **Note** | **Price** | **Link** |
