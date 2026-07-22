@@ -7,7 +7,7 @@ This project is focused on building a mobile air quality monitor which can measu
 ![Headstone Image](Air_Quality_Monitor_Picture.HEIC)
 
 # Code
-[Original Code](Air_Quality_Monitor.ino)
+[Original Code](Air_Quality_Monitor_Schematic.png)
 
 # Materials Required
 
