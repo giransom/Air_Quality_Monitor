@@ -4,7 +4,7 @@ This project is focused on building a mobile air quality monitor which can measu
 ![Headstone Image](Air_Quality_Monitor_Picture.HEIC)
 
 # Schematics
-![Headstone Image](Air_Quality_Monitor_Picture.HEIC)
+![Headstone Image](Air_Quality_Monitor_Schematic.png)
 
 # Code
 [Original Code](Air_Quality_Monitor_Schematic.png)
